@@ -9,7 +9,7 @@ sudo pacman -S --noconfirm noto-fonts-cjk ttf-ibm-plex ttf-linux-libertine otf-i
 
 sudo pacman -S libvncserver spice-gtk freerdp
 
-yay -S --noconfirm olive zrythm-git rpcs3 sendanywhere meshroom epsxe visual-studio-code-bin android-studio yuzu-mainline-bin citra-qt-bin scilab-bin youtube-dl-gui-git unreal-engine vita3k-git reaper-bin google-chrome  local-by-flywheel-bin github-desktop aptpac genymotion eclipse-java vmware-workstation webex-bin prospect-mail-bin ttf-times-new-roman ttf-mona chrome-remote-desktop
+yay -S --noconfirm olive zrythm-git rpcs3 sendanywhere meshroom epsxe visual-studio-code-bin android-studio yuzu-mainline-bin citra-qt-bin scilab-bin youtube-dl-gui-git unreal-engine vita3k-git reaper-bin google-chrome  local-by-flywheel-bin github-desktop aptpac genymotion eclipse-java vmware-workstation webex-bin prospect-mail-bin ttf-times-new-roman ttf-mona chrome-remote-desktop ros-melodic-desktop-full
 
 pip install numpy pandas tensorflow scikit-learn matplotlib pillow openpyxl scrapy selenium Scrapy requests beautifulsoup4 flask pygame opencv-python
 
